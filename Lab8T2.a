@@ -1,0 +1,11 @@
+START:
+
+ADD NUM2
+CMA
+INC
+ADD NUM
+OUT
+HLT
+
+NUM: .data 1 7
+NUM2: .data 1 4

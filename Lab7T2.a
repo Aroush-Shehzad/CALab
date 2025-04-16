@@ -1,0 +1,8 @@
+START:
+    ADD NUM1
+    ADD NUM2
+    OUT
+    HLT
+
+NUM1:  .data 1 2
+NUM2: .data 1 1
